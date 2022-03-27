@@ -2,8 +2,12 @@
 
 * ```git init```
 
-* ```git add . / <filemame with extension>```
+* ```git add . / <filename with extension>```
 
-* ```git commit -m "<committed message>"
+* ```git commit -m "<committed message>"```
 
-* ```git com
+* ```git remote add <name> <remote>```
+
+* ```git branch -M main```
+
+* ``` git push -u origin main```
